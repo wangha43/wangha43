@@ -1,6 +1,6 @@
 ## Hi there 👋
 ![Mert's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wangha43&show_icons=true)
-Trying to do something cool.
+
 <!--
 **wangha43/wangha43** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Trying to do something cool.
 ### Learning | Using 😄
 <code><a href="https://www.cplusplus.com/" target="_blank"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"></a></code>
 <code><a href="https://www.github.com/" target="_blank"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg"></a></code>
